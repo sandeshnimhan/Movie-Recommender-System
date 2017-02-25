@@ -29,5 +29,6 @@ TO RUN:
 
 RESULT:  
 [
+Item-based Collaborative filtering and Pearson (Correlation) - based similarity measure.
 Even for sparse dataset system is able to predict missing ratings for user-item pairs with minimum RMSE as 0.7
 ]
